@@ -1,0 +1,19 @@
+Conversational Data Analytics Platform (Airtel-NL-Analysis): Developed a secure, Streamlit application leveraging LangChain and modern LLMs (Gemini, Ollama, Perplexity) to provide natural language, conversational insights from complex SQL or uploaded datasets, democratizing data access for users.
+
+Privacy-First LLM Deployment (ai-aura-portfolio-prism): Engineered a high-performance frontend (React/TypeScript/Tailwind CSS) with a robust MLOps backend using DVC for asset versioning. Features a Zero Data Retention (ZDR) routing layer, demonstrating deployment of privacy-compliant, LLM-powered services.
+
+E-commerce Exploratory Data Analysis (E-commerce-analysis): Performed comprehensive EDA using Python (Matplotlib, Seaborn) and statistical methods to uncover key sales patterns, identify anomalies, and provide strategic insights for business decision-making.
+
+End-to-End MLOps Pipeline (MLOOPS): Implemented a complete MLOps workflow leveraging Data Version Control (DVC) for data and model versioning, ensuring full experiment reproducibility across the entire machine learning lifecycle.
+
+Predictive Modeling for Diabetes Management (Mchine_Learning_diabetes_web_app): Developed and deployed a machine learning model for diabetes risk prediction, providing data-driven risk stratification and insights within a supporting web application.
+
+RAG-Powered Mental Health Chatbot (mental-health-chatbot): Engineered a Retrieval-Augmented Generation (RAG) system that grounds the LLM in a knowledge base of verified resources, providing accurate, context-aware, and empathetic conversational support.
+
+ML Model Deployment with FastAPI (railway-fast-api): Built and publicly deployed a machine learning API (FastAPI on Railway) to classify Iris species, demonstrating proficiency in containerization, testing, and deployment of ML models as accessible web services.
+
+Automated Image Scraper with Interface (Scanner): Developed a Python-based tool to efficiently scrape images from Google based on keywords, automating the data collection process and integrating a user interface for streamlined operation.
+
+Social Media Data Extraction Pipeline (Tweets_Puller): Created a robust Python tool to pull, process, and structure public data from Twitter (X) based on specific keywords and accounts, generating analysis-ready datasets for sentiment tracking and trend identification.
+
+Open-Source LLM Utility Package (llm_library): Built a private Python library to integrate and utilize free open-source APIs for advanced LLM functionalities, including reasoning, audio-to-text, and structured output generation, accelerating personal development workflows.

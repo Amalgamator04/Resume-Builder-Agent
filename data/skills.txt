@@ -1,0 +1,32 @@
+SKILLS:
+Core Technical Skills:
+Python Programming
+Data Science
+Machine Learning (ML)
+Deep Learning / Neural Networks
+Natural Language Processing (NLP)
+Selenium Automation
+
+ Tools & Libraries:
+ML / AI: TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
+NLP: NLTK, SpaCy, Hugging Face Transformers
+Data Visualization: Power BI, Matplotlib, Seaborn
+Web / App Development: Flask, Streamlit, MERN Stack, Railway
+
+Database & APIs: SQL, REST APIs, MYSQL, Postgres
+ 
+AI & Agentic Systems:
+Retrieval-Augmented Generation (RAG)
+LangGraph & Agentic AI Design
+Embedding Models (e.g., Sentence Transformers)
+Vector Databases (ChromaDB, FAISS)
+
+ DevOps / Engineering:
+Docker (basic containerization)
+Git & GitHub (version control)
+
+ Soft & Analytical Skills:
+Problem Solving
+Research & Innovation
+Communication & Team Collaboration
+Project Documentation & Reporting
