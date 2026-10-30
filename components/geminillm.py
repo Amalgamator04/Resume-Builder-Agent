@@ -15,7 +15,7 @@ def call_gemini(prompt: str, image_path: str | None = None) -> Any:
     ``GEMINI_API_KEY`` in the process environment before calling this.
     Optionally provide a local image path for multimodal prompts.
     """
-    api_key = "AIzaSyCMuxXcw2ZaAxLUO34pDXbUZ6KDQD48Z-o"
+    api_key = "********************************************"
     if not api_key:
         raise ValueError("Set the GEMINI_API_KEY environment variable first.")
 
